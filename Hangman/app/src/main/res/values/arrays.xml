@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animals">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Otter</item>
+        <item>Raccoon</item>
+        <item>Fox</item>
+        <item>Tiger</item>
+        <item>Bear</item>
+        <item>Elephant</item>
+        <item>Chimpanzee</item>
+        <item>Gorilla</item>
+        <item>Jaguar</item>
+        <item>Deer</item>
+        <item>Giraffe</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Gold</item>
+        <item>Yellow</item>
+        <item>Red</item>
+        <item>Purple</item>
+        <item>Pink</item>
+        <item>Brown</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Gray</item>
+        <item>Orange</item>
+        <item>Silver</item>
+    </string-array>
+
+</resources>

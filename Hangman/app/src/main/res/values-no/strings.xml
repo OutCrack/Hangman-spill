@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="intro" text="">Har du noen gang..\nblitt hengt?</string>
+    <string name="play1">1 Spiller</string>
+    <string name="play2">2 Spiller</string>
+    <string name="howtoplay_btn">Regler</string>
+    <string name="how">Regler:</string>
+    <string name="rules">et usynelig ord vil komme opp i form av hvite linjer. Hver hvite linje representerer en bokstav.\nDet er din jobb å gjette på hvilken bokstaver som skjuler seg før du blir hengt.\nfor vær gang du gjetter feil vil nye deler av bilde komme til syne\n\n Lykke Til! </string>
+    <string name="line">_</string>
+</resources>

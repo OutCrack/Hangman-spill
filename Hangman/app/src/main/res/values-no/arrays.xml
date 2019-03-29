@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animals">
+        <item>Hund</item>
+        <item>Kat</item>
+        <item>Oter</item>
+        <item>Vaskebjørn</item>
+        <item>Rev</item>
+        <item>Tiger</item>
+        <item>Bjørn</item>
+        <item>Elefant</item>
+        <item>Sjimpanse</item>
+        <item>Gorilla</item>
+        <item>Jaguar</item>
+        <item>Hjort</item>
+        <item>Giraff</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>Blå</item>
+        <item>Grønn</item>
+        <item>Gull</item>
+        <item>Gul</item>
+        <item>Rød</item>
+        <item>Lilla</item>
+        <item>Rosa</item>
+        <item>Brun</item>
+        <item>Hvit</item>
+        <item>Svart</item>
+        <item>Grå</item>
+        <item>Orange</item>
+        <item>Sølv</item>
+    </string-array>
+
+</resources>
